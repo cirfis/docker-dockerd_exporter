@@ -1,0 +1,3 @@
+[submodule "dockerd-exporter"]
+	path = dockerd-exporter
+	url = https://github.com/stefanprodan/dockerd-exporter.git
