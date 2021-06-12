@@ -1,4 +1,5 @@
 FROM alpine:latest
+LABEL org.opencontainers.image.source https://github.com/cirfis/docker-dockerd_exporter
 
 RUN apk add --no-cache socat 
 
